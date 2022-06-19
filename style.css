@@ -1,0 +1,14 @@
+.Firstimage {
+    height: 400px;
+     width: 300px;;
+  }
+
+.pizza {
+    height: 800px;
+     width: 1300px;;
+  }
+
+  .inverted {
+    background-color: black;
+    color: white;
+  }
